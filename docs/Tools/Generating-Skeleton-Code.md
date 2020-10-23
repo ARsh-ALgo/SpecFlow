@@ -9,7 +9,7 @@ You can automatically create a suitable class with skeleton bindings and methods
 1. Choose your desired [[step definition style|step definition styles]], which include formats without regular expressions. Click on **Preview** to preview the output.
 1. Either  
   * Click on **Generate** to add a new .cs file with your class to your project. This file will contain the skeleton code for your class and the selected steps.  
-  * Click on **Copy methods to clipboard** to copy the generated skeleton code to the clipboard. You can then paste it to the file of your choosing. Use this method to extend your bindings if new steps have been added to a feature file that already contains bound steps.
+  * Click on **Copy methods to clipboard** to copy the generated skeleton code to the clipboard. You can then paste it to the file of your choice. Use this method to extend your bindings if new steps have been added to a feature file that already contains bound steps.
 
 The most common parameter usage patterns (quotes, apostrophes, numbers) are detected automatically when creating the code and are used by SpecFlow to generate methods and regular expressions. 
 
